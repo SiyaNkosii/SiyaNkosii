@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Siyabonga Nkosi
-- 👀 I'm a software developer  
-- 🌱 I’m confident with Java, C#, Spring Boot, Angular CLI nd ASP.NET currently employed as a full stack java developer learner at geeks4learning
-- 💞️ I’m looking for Junior Developer role could be both Java and C# but preferable Java Full Stack where I can utelize my skills 
+- 👋 Hi, I’m @Siyabonga Nkosi,
+- 👀 I'm a software developer.
+- 🌱 I’m confident with Java, C#, Spring Boot, Angular CLI nd ASP.NET currently employed as a full stack java developer learner at geeks4learning.
+- 💞️ I’m looking for Junior Developer role could be any between Java and C#, but preferable Java Full Stack where I can utelize the skills that i have acquired.
 - 📫 How to reach me ... nsyabonga7@gmail.com // 0730566682
 
 <!---
